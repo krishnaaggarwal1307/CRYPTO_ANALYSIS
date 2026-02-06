@@ -43,4 +43,4 @@ This project analyzes the relationship between market sentiment (using the **Cry
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/YOUR_USERNAME/ CRYPTO_ANALYSIS.git](https://github.com// CRYPTO_ANALYSIS.git)
