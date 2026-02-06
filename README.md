@@ -40,6 +40,19 @@ This project analyzes the relationship between market sentiment (using the **Cry
 - `historical_data.csv`: (Required) Raw trading data.
 - `fear_greed_index.csv`: (Required) Daily sentiment index data.
 
+  ## 📊 Analysis Visualizations
+
+### 1. Daily PnL Distribution
+![PnL Distribution](https://github.com/krishnaaggarwal1307/CRYPTO_ANALYSIS/blob/main/dailt%20pnl%20distribution%20by%20sentiment.png)
+
+### 2. Win Rate by Segment
+![Win Rate Segments](https://github.com/krishnaaggarwal1307/CRYPTO_ANALYSIS/blob/main/win%20rate%20by%20sentiment.png)
+
+### 3. Trader Long Bias
+![Long Bias](https://github.com/krishnaaggarwal1307/CRYPTO_ANALYSIS/blob/main/average%20long%20bias%20by%20sentiment.png)
+
+### 4. Average daily trades
+![daily trades](https://github.com/krishnaaggarwal1307/CRYPTO_ANALYSIS/blob/main/average%20daily%20trades%20by%20sentiment.png)
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
